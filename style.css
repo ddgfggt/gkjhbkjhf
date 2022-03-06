@@ -1,0 +1,43 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-family: inherit;
+    color: rgb(255, 60, 60);
+}
+.note{
+    font-size: 20px;
+    color: rgb(88, 88, 88);
+    font-family: inherit;
+}
+.speed{
+    float: left;
+}
+.gif{
+    width: 200px;
+    border-radius: 100px;
+}
+#Speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.volume{
+    float: right;
+}
+.gif{
+    width: 200px;
+    border-radius: 100px;
+}
+#Volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.play{
+    font-size: 23px;
+    margin: 15px;
+    width: 130px;
+}
+canvas{
+border: 5px solid rgb(129, 205, 255);
+border-radius: 20px;
+}
